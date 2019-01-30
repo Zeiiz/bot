@@ -2,12 +2,12 @@
 <html>
 
   <head>
-    <title>Buenas a todos</title>
+    <title>Inicio</title>
     <meta charset="UTF-8">
   </head>
   
   <body lang="es">
-    <?php echo "Hello World!"; ?>
+    <?php echo "¡Hola!"; ?>
   </body>
   
 </html>
